@@ -73,6 +73,7 @@ Lang.prototype.pack.zh = {
 		"Warning: No steps": "警告：没有步骤",
 		"Connect device": "连接设备",
 		"Device:": "设备：",
+		"full_snapshot":"截长图:",
 		"© 1997 - 2019 NetEase, Inc. All Rights Reserved.": "© 1997 - 2019 网易公司版权所有"
 	}
 };
